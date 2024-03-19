@@ -1,5 +1,5 @@
 ﻿using UnityEngine;
-using DataStructure;
+using DataStructure.List;
 using Unity.VisualScripting;
 using System;
 

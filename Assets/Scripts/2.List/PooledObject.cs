@@ -1,6 +1,6 @@
 ﻿using System;
 using System.Runtime.CompilerServices;
-using DataStructure;
+using DataStructure.List;
 using UnityEngine;//우리가 작성한 list 사용하기 위함
 
 /// <summary>

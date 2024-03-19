@@ -4,7 +4,7 @@ using System;
 using System.Collections;
 
 //충돌 방지용 감싸기
-namespace DataStructure
+namespace DataStructure.List
 {
 
     /// <summary>
